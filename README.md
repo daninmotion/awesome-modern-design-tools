@@ -20,6 +20,7 @@ This is a list of all the blog posts, people, experiments, tools, services, apps
 
 ## Blog Posts
 
+- [The 8-Point Grid](http://spec.fm/specifics/8-pt-grid)
 - [Let’s Redesign Web Design](https://medium.com/@callmevlad/let-s-redesign-web-design-2d67aec798e)
 - [Modern Design Tools: Using Real Data](https://medium.com/bridge-collection/modern-design-tools-using-real-data-62d499e97482)
 - [Designing for a Juicier Web](https://medium.com/@UserJourneys/designing-for-a-juicier-web-5549c6eb6008)
@@ -50,6 +51,7 @@ This is a list of all the blog posts, people, experiments, tools, services, apps
 
 ## Apps
 
+- [Principle](http://principleformac.com/)
 - [Macaw](http://macaw.co/)
 - [Webflow](https://webflow.com/)
 - [Atomic](https://atomic.io/)
